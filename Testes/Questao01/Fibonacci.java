@@ -1,7 +1,7 @@
 package Testes.Questao01;
 import java.util.Scanner;
 
-public class IO {
+public class Fibonacci {
     public static boolean isInFibonacci(int value){
         boolean flag = false;
         int v1 = 0;;

@@ -1,7 +1,7 @@
 package Testes.Questao02;
 import java.util.Scanner;
 
-public class IO {
+public class ACounter {
 
     public static int countA(String str){
         int counter = 0;
